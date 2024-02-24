@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState } from "react";
 import { useTodo } from "../contexts/TodoContext";
 const TodoItem = ({ todo }) => {
